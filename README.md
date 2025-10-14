@@ -5,8 +5,9 @@ A Python-based tool that automatically sends emails at scheduled times. It allow
 This project is First release.
 
 ## Features
--auto sending emails
--repating the email at set intervals.
+- auto sending emails
+
+- repating the email at set intervals.
 
 
 
