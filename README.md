@@ -29,8 +29,8 @@ This project is First release.
   ## Installation (Simple)
   1. Clone the repository
 ```bash
-git clone https://github.com/Onlyv-1/automail-sender/
-cd automail-sender
+git clone https://github.com/Onlyv-1/automate-sending-emails/
+cd automate-sending-emails
 ```
 
 ---
