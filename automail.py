@@ -1,3 +1,10 @@
+#!/usr/bin/python3
+# MUlti Port Scanner
+# Made by OnlyV
+# v0.1.0
+# https://github.com/Onlyv-1/Simple-PortScanner/
+
+
 import smtplib
 import schedule
 import time
@@ -61,4 +68,5 @@ def repeater():
 
 
 if __name__ == "__main__":
+
     repeater()
