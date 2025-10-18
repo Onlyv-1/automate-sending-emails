@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# MUlti Port Scanner
+# autmate emails
 # Made by OnlyV
 # v0.1.0
 # https://github.com/Onlyv-1/Simple-PortScanner/
@@ -70,3 +70,4 @@ def repeater():
 if __name__ == "__main__":
 
     repeater()
+
